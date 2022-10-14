@@ -10,3 +10,4 @@ The original problem description and data set is on kaggle website: https://www.
 -[The Project Jupyter Notebook is here ](https://github.com/BorisManga/no-show-appointment-dataset-analtsis/blob/main/Investigate_a_Dataset.ipynb)
 
 This project was completed as the first project of Udacity's Data Analyst Nanodegree certification.
+The aim was to explore the entire dataset and find some relevant insights
