@@ -7,4 +7,6 @@ The analysis should be focused on finding trends influencing patients to show or
 
 The original problem description and data set is on kaggle website: https://www.kaggle.com/joniarroba/noshowappointments/home
 
+-[The Project Jupyter Notebook is here ](https://github.com/BorisManga/no-show-appointment-dataset-analtsis/blob/main/Investigate_a_Dataset.ipynb)
+
 This project was completed as the first project of Udacity's Data Analyst Nanodegree certification.
